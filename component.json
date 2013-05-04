@@ -1,0 +1,10 @@
+{
+  "name": "ffosbb-lists",
+  "repo": "namjul/ffosbb-lists",
+  "description": "Contains firefoxOS lists Building Blocks",
+  "version": "0.0.1",
+  "keywords": [],
+  "styles": [
+    "lists.css"
+  ]
+}
