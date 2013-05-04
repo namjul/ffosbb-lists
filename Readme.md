@@ -4,7 +4,7 @@
 
 ## Installation
 
-    $ component install ffosbb-component/lists
+    $ component install namjul/ffosbb-lists
 
 ## License
 
