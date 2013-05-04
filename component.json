@@ -1,7 +1,7 @@
 {
   "name": "ffosbb-lists",
   "repo": "namjul/ffosbb-lists",
-  "description": "Contains firefoxOS lists Building Blocks",
+  "description": "Firefox OS Building Blocks lists component.",
   "version": "0.0.1",
   "keywords": [],
   "styles": [
